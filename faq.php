@@ -85,7 +85,7 @@
 							</div>
 							<div id="faqCollapse-5" class="collapse" aria-labelledby="faqHeading-5" data-parent="#accordion">
 								<div class="card-body">
-									<p> Hubungi kami di mamanggaspol@gmail.com, kami biasanya merespons dalam waktu 48 jam.</p>
+									<p> Hubungi kami di @gmail.com, kami biasanya merespons dalam waktu 48 jam.</p>
 								</div>
 							</div>
 						</div>

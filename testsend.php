@@ -1,6 +1,6 @@
 <?php
 // Put your mail here
-$to_email = "mamanggaspol@gmail.com";
+$to_email = "";
 $subject = "This is a test message sent in PHP";
 $body = "Hello! I send you a PHP script email to test if it works.";
 $headers = "From: Name email";
